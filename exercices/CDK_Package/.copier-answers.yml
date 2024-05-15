@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: be29831
+_src_path: https://github.com/schwallergroup/copier-liac.git
+author_email: victoirelng18@gmail.com
+author_name: Victoire
+enforce_code_style: true
+github_org: victoirelang
+package_name: pip install {cdk_project}import {CDK-Project}
+project_name: pip install {CDK-Project}
+short_description: trying again
