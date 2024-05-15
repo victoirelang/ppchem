@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "pip install {CDK-Project}"
+name = "cdk_package"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {file = "LICENSE"}
